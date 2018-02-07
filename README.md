@@ -1,3 +1,1 @@
-"# simongame" 
-"# simongame" 
-"# simongame" 
+Run program with a C compiler.
