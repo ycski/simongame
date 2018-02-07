@@ -56,7 +56,7 @@ _Bool ready (void) {
 	printf("\nEnter 1 to continue: ");
 	scanf("%i", &yes);
 	while (yes != 1) {
-		scanf("%c", &yes);
+		scanf("%i", &yes);
 	}
 	printf("\n");
 	return 1;
